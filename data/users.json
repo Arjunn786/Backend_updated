@@ -1,0 +1,79 @@
+[ {
+  "username" : "testuser",
+  "password" : "$2a$10$9tm.pkesI44BwhwfDVrA1OhXEHCJCwaoZnEzIkRv.x8s4IfPGLV7.",
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "credentialsNonExpired" : true,
+  "accountNonLocked" : true
+
+}, {
+  "username" : "arjun",
+  "password" : "$2a$10$uGhxg4E2.fac9PKOHwnx0OWXtphfbNh0qxdyvsZSRZCCFeDpWRypu",
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "credentialsNonExpired" : true,
+  "accountNonLocked" : true
+}, {
+  "username" : "arjunn",
+  "password" : "$2a$10$2Z58znaIO6CiqrHX9Ge.1OgLOpW7boQFO98chPEmkkAn2y0yVk8bC",
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "credentialsNonExpired" : true,
+  "accountNonLocked" : true
+}, {
+  "username" : "ratan",
+  "password" : "$2a$10$SM98mX2CdqgrhR2nlluGMuoCdE9J3i.ClpcsDA.WlAjqiKt1zTI3a",
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "credentialsNonExpired" : true,
+  "accountNonLocked" : true
+}, {
+  "username" : "aa",
+  "password" : "$2a$10$t8MSmwz9qMMfypRyIOE28Ogm1fHRDQJDjcUhzCl1wE1wSpVt2ixRy",
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "credentialsNonExpired" : true,
+  "accountNonLocked" : true
+}, {
+  "username" : "shivam",
+  "password" : "$2a$10$tTe16M3goJJuFaoctMXBceLh.u6akRA0S91kZzSs8gRdO6/Uvo0qi",
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "credentialsNonExpired" : true,
+  "accountNonLocked" : true
+}, {
+  "username" : "",
+  "password" : "$2a$10$umdoLg8jE06APH6VstuZC.vAFD/JvwH7Smxx6a6gjJWHFD0KHkh.S",
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "credentialsNonExpired" : true,
+  "accountNonLocked" : true
+}, {
+  "username" : "Aditi",
+  "password" : "$2a$10$op4mezcyd9GKyqnpaM.gxuIVAJ/aLlkIzkIE93aN3hHBAQ.K01zu.",
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "credentialsNonExpired" : true,
+  "accountNonLocked" : true
+}, {
+  "username" : "Arjun23",
+  "password" : "$2a$10$VTxCGFsj3i3ecFN6flqEiOesAczCNs7qTAdkOjbRs8ZuOyiP37/.2",
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "credentialsNonExpired" : true,
+  "accountNonLocked" : true
+}, {
+  "username" : "Aditi22",
+  "password" : "$2a$10$48YK7a4.qiK/5qzpS6WUi.2jLSer6KPbyLzAnOsgx81gFx5TyBLCK",
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "credentialsNonExpired" : true,
+  "accountNonLocked" : true
+}, {
+  "username" : "Arjun6",
+  "password" : "$2a$10$fs.W8obQNUIjrL6GFZ0BSu1u8r0EP/n3rB1whkhgnNPkv/1PDJk.a",
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "credentialsNonExpired" : true,
+  "accountNonLocked" : true
+} ]
